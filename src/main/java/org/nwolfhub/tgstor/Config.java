@@ -44,6 +44,5 @@ public class Config {
             log.error("Failed to init: {}", e.toString());
             throw new RuntimeException(e);
         }
-
     }
 }
